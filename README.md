@@ -200,6 +200,11 @@ http://localhost:8080
 
 This project demonstrates a production-ready ETL pipeline with automated data processing and intelligent alerting, ensuring reliability and maintainability.
 
+#  License  
+This project is released under the MIT License. See the `LICENSE` file for more information.  
+
+Designed as a production-ready ETL framework, developed over an 8-week lifecycle, enabling reliable and scalable data workflows.
+
 
 
 
