@@ -1,0 +1,10 @@
+# Airflow logs
+logs/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
